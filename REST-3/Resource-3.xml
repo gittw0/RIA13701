@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:resource name="Resource 3" path="" id="00cd8ce6-bff5-43c1-91fb-4aa3139731ed" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:con="http://eviware.com/soapui/config">
+  <con:description>3</con:description>
+  <con:settings>
+    <con:setting id="00cd8ce6-bff5-43c1-91fb-4aa3139731edfileName">Resource-3</con:setting>
+  </con:settings>
+  <con:parameters/>
+  <con:method name="Method 3" id="d94e4886-8d0f-49cc-8ea9-52ee6c8fec73" method="GET">
+    <con:description>3</con:description>
+    <con:settings/>
+    <con:parameters/>
+    <con:request name="Request 3" id="37d4d101-0359-4efc-9008-2d520f9b4185" mediaType="application/json">
+      <con:description>3</con:description>
+      <con:settings>
+        <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting>
+      </con:settings>
+      <con:endpoint>http://yandex.ru</con:endpoint>
+      <con:request/>
+      <con:credentials>
+        <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
+        <con:authType>No Authorization</con:authType>
+      </con:credentials>
+      <con:jmsConfig JMSDeliveryMode="PERSISTENT"/>
+      <con:parameters/>
+    </con:request>
+  </con:method>
+</con:resource>

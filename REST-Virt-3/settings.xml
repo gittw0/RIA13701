@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:restMockService id="71b236c3-12b0-484a-b59c-f2c9be2f7b8e" port="8088" path="/" host="localhost" name="REST Virt 1" xmlns:con="http://eviware.com/soapui/config">
+<con:restMockService id="71b236c3-12b0-484a-b59c-f2c9be2f7b8e" port="8088" path="/" host="localhost" name="REST Virt 3" xmlns:con="http://eviware.com/soapui/config">
+  <con:description>3</con:description>
   <con:settings>
-    <con:setting id="71b236c3-12b0-484a-b59c-f2c9be2f7b8efileName">REST-Virt-1</con:setting>
+    <con:setting id="71b236c3-12b0-484a-b59c-f2c9be2f7b8efileName">REST-Virt-3</con:setting>
   </con:settings>
   <con:properties/>
   <con:constraints>

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:loadUiTest name="Load Test 1" id="c9e6c44f-6f4e-4eda-b224-1d18f310d498" xmlns:con="http://eviware.com/soapui/config">
+<con:loadUiTest name="Load Test 3" id="c9e6c44f-6f4e-4eda-b224-1d18f310d498" xmlns:con="http://eviware.com/soapui/config">
+  <con:description>3</con:description>
   <con:settings>
     <con:setting id="soapUIObjectSourceId">1880d7fd-d45f-4b0a-af07-c767381282bc</con:setting>
     <con:setting id="soapUIObjectSourceType">soapUIObjectSourceType_RestRequest</con:setting>
-    <con:setting id="c9e6c44f-6f4e-4eda-b224-1d18f310d498fileName">Load-Test-1</con:setting>
+    <con:setting id="c9e6c44f-6f4e-4eda-b224-1d18f310d498fileName">Load-Test-3</con:setting>
   </con:settings>
   <con1:loadui-project id="31222757-43ba-41ff-9252-36603467d771" label="Load Test 1" xmlns:con1="http://eviware.com/loadui/config">
     <con1:properties>

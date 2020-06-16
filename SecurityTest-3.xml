@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:securityTest id="d185f673-40d0-4456-b3bf-2ba0b40dbf26" testCaseId="1880d7fd-d45f-4b0a-af07-c767381282bc" name="SecurityTest 1" failSecurityTestOnScanErrors="true" xmlns:con="http://eviware.com/soapui/config">
+<con:securityTest id="d185f673-40d0-4456-b3bf-2ba0b40dbf26" testCaseId="1880d7fd-d45f-4b0a-af07-c767381282bc" name="SecurityTest 3" failSecurityTestOnScanErrors="true" xmlns:con="http://eviware.com/soapui/config">
+  <con:description>3</con:description>
   <con:settings>
-    <con:setting id="d185f673-40d0-4456-b3bf-2ba0b40dbf26fileName">SecurityTest-1</con:setting>
+    <con:setting id="d185f673-40d0-4456-b3bf-2ba0b40dbf26fileName">SecurityTest-3</con:setting>
   </con:settings>
   <con:testStepSecurityTest>
     <con:testStepId>a801aef3-d90c-4a3b-8b32-a2c897e0de78</con:testStepId>
