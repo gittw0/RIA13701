@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:interface xsi:type="con:RestService" id="39b94c83-28c2-4697-bcab-305a7fc38933" wadlVersion="http://wadl.dev.java.net/2009/02" name="REST 2" type="rest" xmlns:con="http://eviware.com/soapui/config" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <con:description>2</con:description>
+  <con:settings>
+    <con:setting id="39b94c83-28c2-4697-bcab-305a7fc38933fileName">REST-2</con:setting>
+  </con:settings>
+  <con:definitionCache type="TEXT" rootPart=""/>
+  <con:endpoints>
+    <con:endpoint>http://localhost:8088/</con:endpoint>
+    <con:endpoint>http://yandex.ru</con:endpoint>
+  </con:endpoints>
+</con:interface>

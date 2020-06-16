@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<con:testCase id="1880d7fd-d45f-4b0a-af07-c767381282bc" discardOkResults="false" failOnError="true" failTestCaseOnErrors="true" keepSession="false" name="TestCase 1" searchProperties="true" timeout="0" xmlns:con="http://eviware.com/soapui/config">
+<con:testCase id="1880d7fd-d45f-4b0a-af07-c767381282bc" discardOkResults="false" failOnError="true" failTestCaseOnErrors="true" keepSession="false" name="TestCase 2" searchProperties="true" timeout="0" xmlns:con="http://eviware.com/soapui/config">
+  <con:description>2</con:description>
   <con:settings>
-    <con:setting id="1880d7fd-d45f-4b0a-af07-c767381282bcfileName">TestCase-1</con:setting>
+    <con:setting id="1880d7fd-d45f-4b0a-af07-c767381282bcfileName">TestCase-2</con:setting>
   </con:settings>
   <con:savedRecentRuns>1</con:savedRecentRuns>
-  <con:testStep type="restrequest" name="REST Request 1" id="a801aef3-d90c-4a3b-8b32-a2c897e0de78">
+  <con:testStep type="restrequest" name="REST Request 2" id="a801aef3-d90c-4a3b-8b32-a2c897e0de78">
     <con:settings/>
-    <con:config service="REST 1" resourcePath="" methodName="Method 1" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-      <con:restRequest name="REST Request 1" id="37d4d101-0359-4efc-9008-2d520f9b4185" mediaType="application/json">
+    <con:config service="REST 2" resourcePath="" methodName="Method 2" xsi:type="con:RestRequestStep" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <con:restRequest name="REST Request 2" id="37d4d101-0359-4efc-9008-2d520f9b4185" mediaType="application/json">
+        <con:description>2</con:description>
         <con:settings>
           <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting>
         </con:settings>
