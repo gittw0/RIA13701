@@ -5,7 +5,7 @@
     <con:setting id="00cd8ce6-bff5-43c1-91fb-4aa3139731edfileName">Resource-2</con:setting>
   </con:settings>
   <con:parameters/>
-  <con:method name="Method 2" id="d94e4886-8d0f-49cc-8ea9-52ee6c8fec73" method="GET">
+  <con:method name="Method 2" id="d94e4886-8d0f-49cc-8ea9-52ee6c8fec73" method="POST">
     <con:description>2</con:description>
     <con:settings/>
     <con:parameters/>
@@ -15,7 +15,7 @@
         <con:setting id="com.eviware.soapui.impl.wsdl.WsdlRequest@request-headers">&lt;xml-fragment/></con:setting>
       </con:settings>
       <con:endpoint>http://yandex.ru</con:endpoint>
-      <con:request/>
+      application/json" postQueryString="false"
       <con:credentials>
         <con:authType>No Authorization</con:authType>
       </con:credentials>
